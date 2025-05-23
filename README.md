@@ -22,6 +22,11 @@
   - *workflow logic optimization resulted in 40% CPU, 20-40% memory usage reduction*
 - Team Agile Master
 
+### 🎓 Education
+
+**Kyung Hee University** `2020.03 - `
+- Bachelor's Degree in Software Convergence (Data Science Track)
+
 ### 🎯 Activities
 
 - 🔥 **BOAZ 23rd** - Big Data Alliance Club (Data Engineering) `2024.07 -`
