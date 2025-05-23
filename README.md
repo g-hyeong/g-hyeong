@@ -12,7 +12,7 @@
 
 ### 💼 Current Work
 
-**Data Engineer Intern @ 버즈앤비** `2025.01 -`
+**Data Engineer Intern @ BuzznByd** `2025.01 -`
 
 - Developing video context understanding system using **Langchain**
   - *Product context information extraction and brand database construction*
