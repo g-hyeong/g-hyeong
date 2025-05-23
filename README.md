@@ -7,8 +7,8 @@
 
 - 🌱 **Data Engineer & Backend Developer** passionate about continuous learning and growth
 - 🛠️ Focused on building stable and scalable systems
-- 🎯 Currently working as **Data Engineer Intern** at **버즈앤비**
-- 🔍 Interested in **LLM Engineering**, **Data Pipeline**, and **System Architecture**
+- 🎯 Currently working as **Data Engineer Intern** at **BuzznByd**
+- 🔍 Interested in **LLM Engineering**, **Data Engineering**, and **System Architecture**
 
 ### 💼 Current Work
 
@@ -24,7 +24,7 @@
 
 ### 🎯 Activities
 
-- 🔥 **BOAZ 23rd** - Big Data Alliance Club (Data Engineering Track) `2024.07 -`
+- 🔥 **BOAZ 23rd** - Big Data Alliance Club (Data Engineering) `2024.07 -`
 - 📊 **KHUDA 4th-6th** - Kyung Hee University Data Analysis & AI Club `2023.07 - 2024.12`
 
 ### 🚀 Tech Stack
@@ -66,6 +66,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
 
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -77,13 +79,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-hyeong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="g-hyeong's Top Langs" />
 </p>
 
-### 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=g-hyeong&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="g-hyeong's Contribution Graph" />
 </p>
-
-### 🔥 GitHub Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-hyeong&theme=tokyonight" alt="g-hyeong's Profile Details" />
@@ -98,15 +96,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=g-hyeong&theme=tokyonight" alt="g-hyeong's Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-hyeong&theme=tokyonight&utcOffset=9" alt="g-hyeong's Productive Time" />
 </p>
-
-### 📫 Let's Connect
-
-- 🌐 **Portfolio**: [g-hyeong.site](https://g-hyeong.site)
-- 💼 **LinkedIn**: [linkedin.com/in/g-hyeong](https://www.linkedin.com/in/g-hyeong/)
-
+</p>
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=g-hyeong&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/g-hyeong?style=flat-square&color=blue" alt="GitHub Followers" />
-</p>
+</p> -->
