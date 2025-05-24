@@ -29,8 +29,8 @@
 
 ### 🎯 Activities
 
-- 🔥 **BOAZ 23rd** - Big Data Alliance Club (Data Engineering) `2024.07 -`
-- 📊 **KHUDA 4th-6th** - Kyung Hee University Data Analysis & AI Club `2023.07 - 2024.12`
+- **BOAZ 23rd** - Big Data Alliance Club (Data Engineering) `2024.07 -`
+- **KHUDA 4th-6th** - Kyung Hee University Data Analysis & AI Club `2023.07 - 2024.12`
 
 ### 🚀 Tech Stack
 
