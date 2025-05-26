@@ -73,7 +73,9 @@
 
 ---
 
+<!--
 ### 📊 GitHub Analytics
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=g-hyeong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="g-hyeong's GitHub stats" />
@@ -102,6 +104,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-hyeong&theme=tokyonight&utcOffset=9" alt="g-hyeong's Productive Time" />
 </p>
 </p>
+
+-->
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=g-hyeong&style=flat-square&color=blue" alt="Profile Views" />
