@@ -31,13 +31,6 @@ Key Interests
 
 ### **버즈앤비 (BuzznByd)** | **Data Engineer** `2025.07 -`
 - **영상 대본 기반 맥락 이해 데이터 플랫폼 구축**
-- *Tech Stack*
-  <br>
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Argo Workflows](https://img.shields.io/badge/Argo%20Workflows-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-  ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-  </br>
 ---
 
 
@@ -50,18 +43,6 @@ Key Interests
 - **워크플로우 및 GraphQL API 개발/관리**
   - 데이터 이동 워크플로우 로직 개선 → **CPU 사용량 40%, 메모리 사용량 20-40% 절감**
 - **팀 애자일 마스터**
-- *Tech Stack*
-  <br>
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Argo Workflows](https://img.shields.io/badge/Argo%20Workflows-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-  ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF4500?style=for-the-badge&logoColor=white)
-
-  <br>
-
 ---
 
 ### Education & Activities
