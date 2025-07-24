@@ -54,14 +54,6 @@ Key Interests
 <br>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g-hyeong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="g-hyeong's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-hyeong&theme=tokyonight&hide_border=true&background=0D1117" alt="g-hyeong's GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-hyeong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="g-hyeong's Top Langs" />
-</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=g-hyeong&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="g-hyeong's Contribution Graph" />
 </p>
